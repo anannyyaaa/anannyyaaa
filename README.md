@@ -1,6 +1,6 @@
 # Hi, I'm Ananya 👋  
 
-🎓 Mechanical Engineering Student (2027)  
+🎓 Engineering Student (2027)  
 💻 Aspiring Software Engineer | Focused on DSA & Core CS  
 🚀 Currently working on building strong problem-solving skills and real-world projects  
 
