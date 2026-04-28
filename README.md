@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Ananya 👋  
 
 🎓 Mechanical Engineering Student (2027)  
