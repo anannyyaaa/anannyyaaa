@@ -9,7 +9,7 @@
 ## 🧠 About Me  
 
 - Strong in **Data Structures & Algorithms, OOPs, DBMS, Operating Systems**  
-- Transitioning from **Mechanical → Software Engineering**  
+- Passionate about **building projects**, not just learning concepts
 - Highly focused on **growth, consistency, and learning by building**  
 
 ---
