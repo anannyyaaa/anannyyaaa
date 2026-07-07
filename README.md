@@ -4,7 +4,6 @@
 💻 Aspiring Software Engineer | Focused on DSA & Core CS  
 🚀 Currently working on building strong problem-solving skills and real-world projects  
 
-![](https://komarev.com/ghpvc/?username=anannyyaaa)
 ---
 
 ## 🧠 About Me  
